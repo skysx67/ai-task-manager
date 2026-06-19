@@ -1,0 +1,9 @@
+node_modules/
+.env
+dist/
+build/
+__pycache__/
+*.pyc
+tasks_export.csv
+.DS_Store
+Thumbs.db
