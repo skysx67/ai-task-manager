@@ -1,0 +1,14 @@
+{
+  "name": "ai-task-manager-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Серверная часть для AI Task Manager",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
